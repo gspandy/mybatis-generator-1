@@ -76,7 +76,7 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-source-plugin</artifactId>
-                <version>${plugin.source.version}</version>
+                <version>2.4</version>
                 <configuration>
                     <attach>false</attach>
                 </configuration>
